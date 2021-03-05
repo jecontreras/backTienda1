@@ -29,6 +29,10 @@ module.exports = {
     },
     cat_usu_actualiz:{
         model: 'tblusuario'
+    },
+    ordenador:{
+        type: 'integer',
+        defaultsTo: 0
     }
   },
 
