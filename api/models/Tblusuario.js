@@ -143,7 +143,7 @@ module.exports = {
     },
     porcentaje:{
         type: 'integer',
-        defaultsTo: 7.777
+        defaultsTo: 10
     },
     empresa:{
         model: 'empresa'
